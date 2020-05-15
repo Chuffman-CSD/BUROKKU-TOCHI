@@ -173,6 +173,6 @@ async def lovecalc(ctx, member1 : discord.Member = None, member2 : discord.Membe
 
 #==================BUROKKU TOCHI RUN TOKEN=======================
 
-client.run("NzA4ODkxNzc5MTM0MzkwMjky.Xr114A.TWPjMjqcqn3FJt9uhoQ7YvCZWeg")
+client.run("")
 
 #==========================================================
